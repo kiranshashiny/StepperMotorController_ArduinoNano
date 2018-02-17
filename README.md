@@ -70,3 +70,8 @@ Code : Arduino IDE.
 References :
 
 https://www.youtube.com/watch?v=_5H7ibWQgXo
+
+Pin connections in Print:
+
+![screen shot 2018-02-17 at 5 59 03 pm](https://user-images.githubusercontent.com/14288989/36340926-56018e9c-140c-11e8-884a-890f5e90550f.png)
+
