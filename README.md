@@ -16,15 +16,17 @@ Stepper Motor Nema-17
 Connections were as follows :
 
 
-The Arduino
+The Arduino to A4988 Connections.
 
 Pin D3  goes to STEP pin of the Driver
+
 Pin D4  goes to DIRection pin of the Driver.
-Reset and Sleep were connected to each other.
+
+Reset and Sleep Pins on the A4988 were connected to each other.
 
 Vdd and GND of the Arduino was connected to A4988.
 
-Vmot and GND were connected to 12V wall mounted power supply.
+Vmot and GND were connected to 12V wall mounted DC power supply.
 
 The pins of the Stepper motor were connected to 2B, 2A, 1B and 1A of the A4988. 
 
@@ -74,4 +76,5 @@ https://www.youtube.com/watch?v=_5H7ibWQgXo
 Pin connections in Print:
 
 ![screen shot 2018-02-17 at 5 59 03 pm](https://user-images.githubusercontent.com/14288989/36340926-56018e9c-140c-11e8-884a-890f5e90550f.png)
+
 
